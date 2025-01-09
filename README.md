@@ -1,4 +1,10 @@
-## Tech Stack:
+👋 Hi there, I'm Joyce Mathews!
+Passionate Software Developer | MCA Student at Rajagiri College
+Welcome to my GitHub profile! I'm a dedicated and hardworking software developer with a strong foundation in programming, web development, and full-stack development. My journey began with a passion for problem-solving and creating impactful software solutions, which led me to pursue a Master's in Computer Applications (MCA) at Rajagiri College.
+
+
+
+💻 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
