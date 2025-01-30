@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Joyce Mathews!</h1>
 
 - 🎓 **MCA Student** at Rajagiri College  
-- 💻 **Passionate Software Developer** with a strong foundation in full-stack development  
+- 💻 **Passionate Software Developer** eager to Learn and Grow
 - 🌱 **Currently Learning**: Python & Flask  
 - 🔍 **Focus Areas**: Problem-solving & Impactful Software Solutions  
 - 📧 **Reach me at**: joycemathewsk@gmail.com
