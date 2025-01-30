@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm **Joyce Mathews**!
+<h3 align="center">👋 Hi there, I'm Joyce Mathews!</h3>
 
 - 🎓 **MCA Student** at Rajagiri College  
 - 💻 **Passionate Software Developer** with a strong foundation in full-stack development  
