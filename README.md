@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hi there, I'm Joyce Mathews!</h1>
 
-- 🎓 **MCA Student** at Rajagiri College  
-- 💻 **Passionate Software Developer** with a strong foundation in full-stack development  
-- 🌱 **Currently Learning**: Python & Flask  
-- 🔍 **Focus Areas**: Problem-solving & Impactful Software Solutions  
-- 📧 **Reach me at**: joycemathewsk@gmail.com
+<h3>🎓 **MCA Student** at Rajagiri College</h3>
+<h3>💻 **Passionate Software Developer** with a strong foundation in full-stack development</h3>
+<h3>🌱 **Currently Learning**: Python & Flask</h3>
+<h3>🔍 **Focus Areas**: Problem-solving & Impactful Software Solutions</h3>
+<h3>📧 **Reach me at**: joycemathewsk@gmail.com</h3>
 
 ---
 
