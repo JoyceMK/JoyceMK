@@ -1,6 +1,4 @@
-<p align="center">
-  👋 Hi there, I'm **Joyce Mathews**!
-</p>
+# 👋 Hi there, I'm **Joyce Mathews**!
 
 ## Passionate Software Developer | MCA Student at Rajagiri College
 
