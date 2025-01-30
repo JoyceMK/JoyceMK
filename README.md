@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-2C3E50?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-007A32?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
 ---
