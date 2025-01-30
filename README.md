@@ -4,6 +4,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated and hardworking software developer with a strong foundation in programming, web development, and full-stack development. My journey began with a passion for problem-solving and creating impactful software solutions, which led me to pursue a Master's in Computer Applications (MCA) at Rajagiri College.
 
+🌱 I’m currently learning Python & Flask
 📫 How to reach me joycemathewsk@gmail.com
 
 ---
