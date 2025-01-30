@@ -24,3 +24,7 @@ Welcome to my GitHub profile! I'm a dedicated and hardworking software developer
 </p>
 
 ---
+
+![Joyce's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
